@@ -1,4 +1,4 @@
-#There might be some benfit in terms of speed and memory, if cache the inverse of matrix
+#There might be some benfit in terms of speed and memory, if we cache the inverse of matrix
 #because matrix inversion is a costly computation. The complexity of matrix inversion is O(n^3) using Guass- Jordan elimination method.
 
 #makeCacheMatrix defined below to
